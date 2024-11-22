@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RugoTech
 - 👀 I’m interested in becoming an IT systems admin
-- Finished Google IT Support Certificate
-- 🌱 Started studying Bachelor of Computer Applications at Manipal University, Jaipur 
+- 🌱 Finished Google IT Support Certificate, then in Oct 2024 enrolled for Bachelor of Computer Applications at Manipal University, Jaipur 
 - 💞️ I’m looking forward to collaborate on Python, C language and Networking beginners projects 
 - 📫 Reach me on: abbeyziraba@gmail.com
 - 😄 Pronouns: Him
